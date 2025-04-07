@@ -17695,7 +17695,7 @@ div.u-video,
   margin: 21px 0 0 0 !important;
 }
 .u-spacing-20:not(.u-text) > li:not(:last-child) {
-  margin-right: 20px;
+  
 }
 .u-spacing-20 > .u-accordion-item + .u-accordion-item {
   margin-top: 20px;
